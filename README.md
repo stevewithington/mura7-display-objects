@@ -21,7 +21,7 @@ These files were used in the **Intro To Mura 7 Display Objects** presentation at
 Once you've obtained the desired API keys, go to the Mura CMS admin area. Visit `Site Settings > Edit Settings` and select the `Extended Attributes` tab. Then, enter your API keys into the appropriate fields, and click `Save Settings`.
 
 ## License
-Copyright 2010-2016 Stephen J. Withington, Jr. (and others -- see individual files for additional copyright holders).
+Copyright 2017 Stephen J. Withington, Jr. (and others -- see individual files for additional copyright holders).
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
