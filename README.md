@@ -1,6 +1,6 @@
 # Intro To Mura 7 Display Objects
 
-These files were used in the **Intro To Mura 7 Display Objects** presentation at [MuraCon 2017](http://www.muracon.com). Please also see https://github.com/stevewithington/murahelloworld for another example display object.
+These files were used in the **Intro To Mura 7 Display Objects** presentation at [MuraCon 2017](http://www.muracon.com). Please also see http://docs.getmura.com/v7/videos/webinars/super-fast-app-dev-with-mura-7/ for a presentation with more information and code samples.
 
 ## PLEASE READ
 
