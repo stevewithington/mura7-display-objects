@@ -11,12 +11,12 @@
   </div>
 
   <script>
-    Mura(function(m) { 
-      m.loader() 
+    Mura(function(m) {
+      m.loader()
         .load(
           m.themepath + '/display_objects/bower_components/google-map/google-map.html',
           m.themepath + '/display_objects/bower_components/webcomponentsjs/webcomponents-lite.min.js'
-        ); 
+        );
     });
   </script>
 
