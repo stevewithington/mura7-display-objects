@@ -9,12 +9,12 @@
   </div>
 
   <script>
-    Mura(function(m) { 
-      m.loader() 
+    Mura(function(m) {
+      m.loader()
         .load(
           m.themepath + '/display_objects/bower_components/wunderground-forecast/wunderground-forecast.html',
           m.themepath + '/display_objects/bower_components/webcomponentsjs/webcomponents-lite.min.js'
-        ); 
+        );
     });
 
     var wf = document.querySelector('wunderground-forecast##wf-#esapiEncode('javascript', objectparams.objectid)#');
